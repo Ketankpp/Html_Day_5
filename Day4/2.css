@@ -1,0 +1,39 @@
+.style1{
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 40px;
+        height: 100vh;
+}
+.style2{
+    height: 32px;
+    border-radius: 25px;
+    padding: 0 20px;
+    margin-right: 8px;
+    border: none;
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.style3{
+            height: 32px;
+            width: 75vw;
+            border-radius: 25px;
+            border-color: black;
+          
+}
+#id1 {
+    color: rgb(66, 133, 244)
+}
+#id2{
+    color: rgb(219, 68, 55)
+}
+#id3{
+    color: rgb(244, 180, 0)
+}
+#id4{
+    color: rgb(15, 157, 88)
+}
