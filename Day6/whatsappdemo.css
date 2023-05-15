@@ -1,7 +1,7 @@
 .body{
     display: flex;
     justify-content: center;
-    color: rgb(19, 19, 19);
+    color: rgb(13, 12, 12);
     background-image: url('https://mdbcdn.b-cdn.net/img/new/fluid/nature/018.webp');
 }
 .container{
